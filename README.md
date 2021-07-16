@@ -1,7 +1,11 @@
--Hi, I’m @Jibble330\n
--I’m interested in programming\n
--I’m currently learning python\n
--I’m looking to collaborate on nothing. I hate people.\n
+-Hi, I’m @Jibble330
+
+-I’m interested in programming
+
+-I’m currently learning python
+
+-I’m looking to collaborate on nothing. I hate people.
+
 -How to reach me: don't
 
 <!---
