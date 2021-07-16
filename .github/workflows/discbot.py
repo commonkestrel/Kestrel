@@ -177,4 +177,4 @@ async def testembed(ctx):
         
 
 
-client.run('ODY0OTgxNDM0OTgwNzYxNjcx.YO9WvA.UPzl-ZnUBm3pQhrfbBAkp45DDMU')
+client.run('no thanks')
