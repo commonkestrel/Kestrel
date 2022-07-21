@@ -1,6 +1,10 @@
-Just having fun learning to program. <br/>
-I'm still learning both Python and Javascript, but focused on Python.
-<!---
-Jibble330/Jibble330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to my profile! 👋
+
+I'm just a guy working towards becoming a Sofware Engineer.
+
+## About Me:<br/>
+- Interested in the concepts behind Computer Science
+- Mainly learning Go and Python, with a little knowledge in Javascript and C++.
+- Working on small projects in my free time to improve.
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibble330&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
