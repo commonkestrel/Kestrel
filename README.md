@@ -12,3 +12,4 @@ I'm just someone working towards hopefully becoming a software engineer.
 - Working on small projects in my free time to explore new concepts and improve
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibble330&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jibble330&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
